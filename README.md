@@ -234,4 +234,4 @@ This project is open-source and available under the MIT License.
 
 For questions, suggestions, or collaboration opportunities, please create an issue in this repository.
 
-**Happy Building! 🤖**
+**Happy Building!**
